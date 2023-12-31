@@ -41,5 +41,5 @@ bikeshare.py
 ### Credits
 The data for the 3 cities is used in this project can be accessed through the link below :
 
-    - [City Data](https://drive.google.com/file/d/1km4EggJaSvHos_7KKFuHoJxbh-StyM4G/view?usp=sharing)
+    [City Data](https://drive.google.com/file/d/1km4EggJaSvHos_7KKFuHoJxbh-StyM4G/view?usp=sharing)
 
