@@ -34,9 +34,9 @@ This project uses Python to explore data related to bike share systems for three
 bikeshare.py
 
 ### Softwares needed:
--Python 3, NumPy, and Pandas 
--An IDE like VS Code or Atom.
--A terminal application (Terminal on Mac and Linux or powershell on Windows).
+- Python 3, NumPy, and Pandas 
+- An IDE like VS Code or Atom.
+- A terminal application (Terminal on Mac and Linux or powershell on Windows).
 
 ### Credits
 The data for the 3 cities is used in this project can be accessed through the link below :
