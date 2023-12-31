@@ -1,17 +1,46 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+#US Bikeshare Data Analysis Project
+
 
 ### Date created
-Include the date you created this project and README file.
+December 31, 2023
 
-### Project Title
-Replace the Project Title
+### US Bikeshare Data Analysis Project
 
 ### Description
-Describe what your project is about and what it does
+This project uses Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. It is desigened to be an interactive experience in the terminal to present statistics and answer the follow questions:
+
+* Popular times of travel:
+  - most common month
+  - most common day of week
+  - most common hour of day
+
+* Popular stations and trip:
+  - most common start station
+  - most common end station
+  - most common trip from start to end 
+
+* Trip duration:
+
+  - total travel time
+  - average travel time
+
+* User info:
+
+  - counts of each user type
+  - counts of each gender (not available in _Washington_ data)
+  - earliest, most recent, most common year of birth (not available in _Washington_ data)
+
 
 ### Files used
-Include the files used
+bikeshare.py
+
+### Softwares needed:
+-Python 3, NumPy, and Pandas 
+-An IDE like VS Code or Atom.
+-A terminal application (Terminal on Mac and Linux or powershell on Windows).
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The data for the 3 cities is used in this project can be accessed through the link below :
+
+    - [City Data](https://drive.google.com/file/d/1km4EggJaSvHos_7KKFuHoJxbh-StyM4G/view?usp=sharing)
 
