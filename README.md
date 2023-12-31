@@ -1,10 +1,9 @@
-#US Bikeshare Data Analysis Project
+# US Bikeshare Data Analysis Project
 
 
 ### Date created
 December 31, 2023
 
-### US Bikeshare Data Analysis Project
 
 ### Description
 This project uses Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. It is desigened to be an interactive experience in the terminal to present statistics and answer the follow questions:
