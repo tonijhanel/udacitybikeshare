@@ -2,6 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
+#Declaring dictionary to store csv files
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -10,6 +11,7 @@ cities = ['chicago', 'new york', 'washington']
 months = ['january', 'february', 'march', 'april', 'may', 'june', 'all']
 days = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'all']
 
+#Method that prompts users to enter filters
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
